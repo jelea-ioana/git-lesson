@@ -1,1 +1,7 @@
-code lines here
+code lines here for acc folders?
+Create first repository (done)
+Add a file to repo - TODO (done)
+Check out the Git history - see what you've done (done)
+Hands-on exercise 
+Pulling from remote source 
+Tips on Git 
